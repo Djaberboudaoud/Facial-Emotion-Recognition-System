@@ -4,7 +4,9 @@
 
 A real-time facial emotion classification system that recognizes **7 different emotions** using a **Convolutional Neural Network (CNN)** and **OpenCV**.
 
-![Facial Emotion Recognition](https://github.com/Djaberboudaoud/Facial-Emotion-Recognition-System/blob/main/Capture%20d'%C3%A9cran.png)
+![Facial Emotion Recognition](
+
+)
 
 
 ## 📊 Overview
