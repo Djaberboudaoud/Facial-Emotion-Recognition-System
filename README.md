@@ -1,8 +1,11 @@
-![Facial Emotion Recognition](https://raw.githubusercontent.com/your-username/your-repo/main/images/banner.png)
 
 # Facial Emotion Recognition System
 
+
 A real-time facial emotion classification system that recognizes **7 different emotions** using a **Convolutional Neural Network (CNN)** and **OpenCV**.
+
+![Facial Emotion Recognition](https://raw.githubusercontent.com/your-username/your-repo/main/images/banner.png)
+
 
 ## 📊 Overview
 - ✅ Achieved **92% accuracy** on the **FER-2013** dataset using data augmentation.  
